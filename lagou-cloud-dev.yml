@@ -1,5 +1,5 @@
 mysql:
-  url: jdbc:mysql://localhost:3306/lagou?serverTimezone=Asia/Shanghai
+  url: jdbc:mysql://localhost:3306/lagou?serverTimezone=Asia/Shanghai&&
   username: root
   password: root
 client:
